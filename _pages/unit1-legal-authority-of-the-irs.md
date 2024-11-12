@@ -5,9 +5,9 @@ date: 2024-11-12
 layout: post
 ---
 
-BIG changes
+Working?
 
-<img src="/ea-part3/assets/hock/unit1-legal-authority-of-the-irs/Screenshot_4524-11-11_12-01-07.png" width="45%" />
+<img src="ea-part3/assets/hock/unit1-legal-authority-of-the-irs/Screenshot_4524-11-11_12-01-07.png" width="45%" />
 
 <img src="ea-part3/assets/hock/unit1-legal-authority-of-the-irs/Screenshot_4524-11-11_12-05-21.png" width="45%" />
 
