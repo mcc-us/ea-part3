@@ -7,7 +7,7 @@ layout: post
 
 Working?
 
-<img src="ea-part3/assets/hock/unit1-legal-authority-of-the-irs/Screenshot_4524-11-11_12-01-07.png" width="45%" />
+<img src="https://github.com/mcc-us/ea-part3/blob/main/assets/hock/unit1-legal-authority-of-the-irs/Screenshot_2024-11-11_12-01-07.png" width="50%" />
 
 <img src="ea-part3/assets/hock/unit1-legal-authority-of-the-irs/Screenshot_4524-11-11_12-05-21.png" width="45%" />
 
