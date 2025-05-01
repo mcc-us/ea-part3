@@ -52,17 +52,17 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
-  posts:
+  topics:
     output: true
     permalink: /:collection/:path/
-  docs:
+  pubs:
     output: true
     permalink: /:collection/:path/
 
 ordered_collections:
   - pages
-  - posts
-  - docs
+  - topics
+  - pubs
 
 page_width: 1100px
 
